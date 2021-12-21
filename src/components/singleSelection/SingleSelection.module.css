@@ -1,0 +1,47 @@
+.cardContainer {
+	width: 60vw;
+	display: flex;
+	flex-direction: column;
+	/* background-color:#b5dad6; */
+    background-color: transparent;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 25px;
+	cursor: pointer;
+	backface-visibility: hidden;
+	transform: translateZ(0);
+	transition: transform 0.25s ease-out;
+}
+
+.cardContainer:hover {
+	transform: scale(1.00);
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.codeContainer {
+    display: flex;
+    flex-direction: column;
+	width: 800px;
+    background-color: transparent;
+}
+
+.optionsContainer {
+	margin-top: 16px;
+	line-height: 2;
+}
+
+.scoreContainer {
+	margin-top: 16px;
+	font-size: 14px;
+	font-family: 'Courier New', Courier, monospace;
+	color: rgb(124, 122, 122);
+}
+
+.textContainer {
+	font-family: 'Courier New',Courier,monospace,PingFang SC,Verdana,Helvetica Neue,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans-serif;
+}

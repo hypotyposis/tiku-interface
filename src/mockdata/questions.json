@@ -1,0 +1,66 @@
+[
+    {
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6wb",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"在内存储器中每个存储单元都被赋予一个唯一的序号，称为（）。",
+                "type": "text"
+            }
+        ],
+        "choices": {
+            "choiceA": "A. 地址",
+            "choiceB": "B. 序号",
+            "choiceC": "C. 下标",
+            "choiceD": "D. 编号"
+        },
+        "score": 2
+    },
+    {
+
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6w1",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content": "冒泡排序算法的伪代码如下：",
+                "type": "text"
+            },
+            {
+                "content": "输入：数组L, n ≥ k。输出：按非递减顺序排序的 L。\n\t算法 BubbleSort：\n\t1. FLAG ← n //标记被交换的最后元素位置\n\t2. while FLAG > 1 do\n\t3・ k ← FLAG -1\n\t4・ FLAG ← 1\n\t5・ for j=1 to k do\n\t6.   if L(j) > L(j+1) then do\n\t7・    L(j)  ↔ L(j+1)\n\t8・    FLAG ← j",
+                "type": "code"
+            },
+            {
+                "content": "对 n 个数用以上冒泡排序算法进行排序，最少需要比较多少次?（ ）。",
+                "type": "text"
+            }
+        ],
+        "choices": {
+            "choiceA": "A. n^2",
+            "choiceB": "B. n-2",
+            "choiceC": "C. n-1",
+            "choiceD": "D. n"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6ss",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content": "下图中所使用的数据结构是()。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/s4eck.png",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "A. 栈",
+            "choiceB": "B. 队列",
+            "choiceC": "C. 二叉树",
+            "choiceD": "D. 哈希表"
+        },
+        "score": 2
+    }
+]

@@ -1,0 +1,46 @@
+.matrixContainer {
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+    height: auto;
+}
+
+.matrixTitle {
+    margin-left: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.blockContainer {
+    /* margin-left: 16px; */
+}
+
+.block {
+    margin: 2px;
+    flex: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 24px;
+    min-width: 24px;
+    text-align: center;
+    line-height: 1.5vw;
+    border-radius: 2px;
+    text-decoration: none;
+    width: 1.5vw;
+    height: 1.5vw;
+    display: inline-block;
+    margin-right: 0.5vw;
+}
+
+.nonfilledBlock {
+    background-color: rgba(132, 171, 189, 0.6);
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    text-decoration: none !important;
+}
+
+.filledBlock {
+    background-color: rgba(233, 206, 52, 0.6);
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    text-decoration: none !important;
+}

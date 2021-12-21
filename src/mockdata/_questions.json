@@ -1,0 +1,180 @@
+[
+    {
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6wb",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            },
+            {
+                "content": "<h1>标题</h1><p>bhjbvjh</p><pre><code class=\"Python\"><xmp>print hi</xmp></code></pre><p>dsad</p>",
+                "type": "html"
+            }
+        ],
+        "choices": {
+            "choiceA": "负责外设与主机之间的信息交换",
+            "choiceB": "控制和管理计算机系统的各种硬件和软件资源的使用",
+            "choiceC": "负责诊断机器的故障",
+            "choiceD": "将源程序编译成目标程序"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6dd",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "a",
+            "choiceB": "b",
+            "choiceC": "c",
+            "choiceD": "d"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnso8OlQxdxlwtVfYOR9B6cc",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "负责外设与主机之间的信息交换",
+            "choiceB": "控制和管理计算机系统的各种硬件和软件资源的使用",
+            "choiceC": "负责诊断机器的故障",
+            "choiceD": "将源程序编译成目标程序"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnso8OlQxduiwtVfYOR9B6wb",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "a",
+            "choiceB": "b",
+            "choiceC": "c",
+            "choiceD": "d"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnss8OlQxdxlwtVfYOR9B6wb",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "负责外设与主机之间的信息交换",
+            "choiceB": "控制和管理计算机系统的各种硬件和软件资源的使用",
+            "choiceC": "负责诊断机器的故障",
+            "choiceD": "将源程序编译成目标程序"
+        },
+        "score": 2
+    },
+    {
+        "id": "singleselectioncnso8OlQxdxlwtyuYOR9B6wb",
+        "type": "single selection",
+        "questionDescriptions": [
+            {
+                "content":"今有一空栈 S，对下列待进栈的数据元素序列a,b,c,d,e,f依次进行：进栈，进栈，出栈，进栈，进栈，出栈的操作，则此操作完成后，栈底元素为（ ）。",
+                "type": "text"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/1.jpg",
+                "type": "image"
+            },
+            {
+                "content": "#include &lt;bits/stdc++.h&gt;\nusing namespace std;\n\nint main(void) {\n\n\treturn 0;\n}",
+                "type": "code"
+            },
+            {
+                "content": "https://ac-scratch-pictures.oss-cn-hangzhou.aliyuncs.com/2.jpg",
+                "type": "image"
+            }
+        ],
+        "choices": {
+            "choiceA": "a",
+            "choiceB": "b",
+            "choiceC": "c",
+            "choiceD": "d"
+        },
+        "score": 2
+    }
+]
